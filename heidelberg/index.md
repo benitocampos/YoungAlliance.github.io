@@ -4,7 +4,7 @@ title: "The Young Alliance Against Cancer inaugural meeting "
 published: true
 ---
 
-The Young Alliance Against Cancer held its inaugural conference in Heidelberg, Germany from November 30th – December 2nd, 2012 
+The _Young Alliance Against Cancer_ held its inaugural conference in Heidelberg, Germany from November 30th – December 2nd, 2012 
 
 During the conference an international working group of junior cancer scientists discussed recent progress in implementing a web-based information platform for young scientists and planned the future development of the Young Alliance Against Cancer.
 
